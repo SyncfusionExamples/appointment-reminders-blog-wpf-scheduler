@@ -8,7 +8,7 @@ It’s simple to add a reminder to the appointment in Scheduler control. You can
 
 **Creating business object for reminder**
 
-The resource view provides MVVM ([model- view-viewmodel](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel))-friendly features with complete data-binding support. This allows you to create custom data objects for reminder and bind it into appointment of Scheduler control by using the mapping technique.
+The Scheduler provides MVVM ([model- view-viewmodel](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel))-friendly features with complete data-binding support. This allows you to create custom data objects for reminder and bind it into appointment of Scheduler control by using the mapping technique.
 
 You can create custom data objects for reminder with the required field TimeInterval and Dismissed. It can be mapped to the equivalent properties in the [ReminderMapping](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.Scheduler.AppointmentMapping.html#Syncfusion_UI_Xaml_Scheduler_AppointmentMapping_ReminderMapping) API in the [AppointmentMapping](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.Scheduler.AppointmentMapping.html) class.
 
