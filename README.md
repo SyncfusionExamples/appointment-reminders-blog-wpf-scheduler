@@ -1,4 +1,4 @@
-# Introducing appointment reminders in WPF Scheduler
+# Introducing appointment reminders in WPF Scheduler (SfScheduler)
 
 Syncfusion WPF scheduler control dispense you with appointment reminder support, which alerts you for an appointment with a reminder window with complete data-binding support. Besides, you can also send reminder message through SMS or email with the help of external packages to keep track on the appointments.
 
